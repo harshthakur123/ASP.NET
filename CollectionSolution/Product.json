@@ -1,0 +1,12 @@
+[
+  {"PId": 1, "Name": "Acoustic Guitar", "Type": "Guitar", "Price": 41049.91, "Brand": "Fender", "IsAcoustic": true},
+  {"PId": 2, "Name": "Electric Piano", "Type": "Piano", "Price": 67439.91, "Brand": "Yamaha", "IsAcoustic": false},
+  {"PId": 3, "Name": "Violin", "Type": "String", "Price": 26299.91, "Brand": "Stradivarius", "IsAcoustic": true},
+  {"PId": 4, "Name": "Drum Set", "Type": "Percussion", "Price": 59579.91, "Brand": "Pearl", "IsAcoustic": true},
+  {"PId": 5, "Name": "Saxophone", "Type": "Wind", "Price": 74159.91, "Brand": "Yamaha", "IsAcoustic": true},
+  {"PId": 6, "Name": "Synthesizer", "Type": "Electronic", "Price": 106404.91, "Brand": "Roland", "IsAcoustic": false},
+  {"PId": 7, "Name": "Bass Guitar", "Type": "Guitar", "Price": 45929.91, "Brand": "Ibanez", "IsAcoustic": false},
+  {"PId": 8, "Name": "Trumpet", "Type": "Brass", "Price": 36634.91, "Brand": "Bach", "IsAcoustic": true},
+  {"PId": 9, "Name": "Accordion", "Type": "Keyboard", "Price": 75034.91, "Brand": "Hohner", "IsAcoustic": true},
+  {"PId": 10, "Name": "Harp", "Type": "String", "Price": 126604.91, "Brand": "Lyon & Healy", "IsAcoustic": true}
+]

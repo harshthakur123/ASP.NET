@@ -1,0 +1,63 @@
+@using HRAPP.Entities;
+
+<style>
+    h1 {
+        text-align: center;
+        color: #333;
+    }
+
+    table {
+        width: 80%;
+        border-collapse: collapse;
+        margin: 20px auto;
+    }
+
+    th,
+    td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    tr:hover {
+        background-color: #f5f5f5;
+    }
+</style>
+
+<h1>Product List</h1>
+<hr />
+<table>
+    <thead>
+        <tr>
+            <th>PId</th>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Price</th>
+            <th>Brand</th>
+            <th>IsAcoustic</th>
+
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            List<Products> productsList = Model;
+            foreach (Products c in productsList)
+            {
+                <tr>
+                    <td>@c.PId</td>
+                    <td>@c.Name</td>
+                    <td>@c.Type</td>
+                    <td>@c.Price</td>
+                    <td>@c.Brand</td>
+                    <td>@c.IsAcoustic</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

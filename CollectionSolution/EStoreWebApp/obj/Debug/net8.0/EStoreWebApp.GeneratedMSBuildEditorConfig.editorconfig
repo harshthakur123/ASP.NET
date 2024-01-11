@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EStoreWebApp
+build_property.RootNamespace = EStoreWebApp
+build_property.ProjectDir = D:\C-DAC\IACSD\.NET\Material\DotNet Technologies\Day7\CollectionSolution\EStoreWebApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\C-DAC\IACSD\.NET\Material\DotNet Technologies\Day7\CollectionSolution\EStoreWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/C-DAC/IACSD/.NET/Material/DotNet Technologies/Day7/CollectionSolution/EStoreWebApp/Views/Auth/ChangePasswordForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxDaGFuZ2VQYXNzd29yZEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C-DAC/IACSD/.NET/Material/DotNet Technologies/Day7/CollectionSolution/EStoreWebApp/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C-DAC/IACSD/.NET/Material/DotNet Technologies/Day7/CollectionSolution/EStoreWebApp/Views/Auth/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C-DAC/IACSD/.NET/Material/DotNet Technologies/Day7/CollectionSolution/EStoreWebApp/Views/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C-DAC/IACSD/.NET/Material/DotNet Technologies/Day7/CollectionSolution/EStoreWebApp/Views/Customers/GetAllCustomers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEdldEFsbEN1c3RvbWVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C-DAC/IACSD/.NET/Material/DotNet Technologies/Day7/CollectionSolution/EStoreWebApp/Views/Dashboard/Bar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C-DAC/IACSD/.NET/Material/DotNet Technologies/Day7/CollectionSolution/EStoreWebApp/Views/Dashboard/Line.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXExpbmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C-DAC/IACSD/.NET/Material/DotNet Technologies/Day7/CollectionSolution/EStoreWebApp/Views/Dashboard/Pie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFBpZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C-DAC/IACSD/.NET/Material/DotNet Technologies/Day7/CollectionSolution/EStoreWebApp/Views/Home/Aboutus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dHVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C-DAC/IACSD/.NET/Material/DotNet Technologies/Day7/CollectionSolution/EStoreWebApp/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C-DAC/IACSD/.NET/Material/DotNet Technologies/Day7/CollectionSolution/EStoreWebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C-DAC/IACSD/.NET/Material/DotNet Technologies/Day7/CollectionSolution/EStoreWebApp/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C-DAC/IACSD/.NET/Material/DotNet Technologies/Day7/CollectionSolution/EStoreWebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C-DAC/IACSD/.NET/Material/DotNet Technologies/Day7/CollectionSolution/EStoreWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C-DAC/IACSD/.NET/Material/DotNet Technologies/Day7/CollectionSolution/EStoreWebApp/Views/ShoppingCart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C-DAC/IACSD/.NET/Material/DotNet Technologies/Day7/CollectionSolution/EStoreWebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C-DAC/IACSD/.NET/Material/DotNet Technologies/Day7/CollectionSolution/EStoreWebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C-DAC/IACSD/.NET/Material/DotNet Technologies/Day7/CollectionSolution/EStoreWebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1c6rw98s2s
