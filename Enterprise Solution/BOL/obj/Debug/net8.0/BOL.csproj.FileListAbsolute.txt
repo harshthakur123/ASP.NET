@@ -1,0 +1,23 @@
+E:\DOTNET\Harsh .Net\Enterprise Solution\BOL\bin\Debug\net8.0\BOL.deps.json
+E:\DOTNET\Harsh .Net\Enterprise Solution\BOL\bin\Debug\net8.0\BOL.dll
+E:\DOTNET\Harsh .Net\Enterprise Solution\BOL\bin\Debug\net8.0\BOL.pdb
+E:\DOTNET\Harsh .Net\Enterprise Solution\BOL\obj\Debug\net8.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNET\Harsh .Net\Enterprise Solution\BOL\obj\Debug\net8.0\BOL.AssemblyInfoInputs.cache
+E:\DOTNET\Harsh .Net\Enterprise Solution\BOL\obj\Debug\net8.0\BOL.AssemblyInfo.cs
+E:\DOTNET\Harsh .Net\Enterprise Solution\BOL\obj\Debug\net8.0\BOL.csproj.CoreCompileInputs.cache
+E:\DOTNET\Harsh .Net\Enterprise Solution\BOL\obj\Debug\net8.0\BOL.dll
+E:\DOTNET\Harsh .Net\Enterprise Solution\BOL\obj\Debug\net8.0\refint\BOL.dll
+E:\DOTNET\Harsh .Net\Enterprise Solution\BOL\obj\Debug\net8.0\BOL.pdb
+E:\DOTNET\Harsh .Net\Enterprise Solution\BOL\obj\Debug\net8.0\ref\BOL.dll
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BOL\bin\Debug\net8.0\BOL.deps.json
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BOL\bin\Debug\net8.0\BOL.dll
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BOL\bin\Debug\net8.0\BOL.pdb
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BOL\obj\Debug\net8.0\BOL.csproj.AssemblyReference.cache
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BOL\obj\Debug\net8.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BOL\obj\Debug\net8.0\BOL.AssemblyInfoInputs.cache
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BOL\obj\Debug\net8.0\BOL.AssemblyInfo.cs
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BOL\obj\Debug\net8.0\BOL.csproj.CoreCompileInputs.cache
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BOL\obj\Debug\net8.0\BOL.dll
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BOL\obj\Debug\net8.0\refint\BOL.dll
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BOL\obj\Debug\net8.0\BOL.pdb
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BOL\obj\Debug\net8.0\ref\BOL.dll

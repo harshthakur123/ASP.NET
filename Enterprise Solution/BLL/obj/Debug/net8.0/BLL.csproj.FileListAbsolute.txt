@@ -1,0 +1,34 @@
+E:\DOTNET\Harsh .Net\Enterprise Solution\BLL\bin\Debug\net8.0\BLL.deps.json
+E:\DOTNET\Harsh .Net\Enterprise Solution\BLL\bin\Debug\net8.0\BLL.dll
+E:\DOTNET\Harsh .Net\Enterprise Solution\BLL\bin\Debug\net8.0\BLL.pdb
+E:\DOTNET\Harsh .Net\Enterprise Solution\BLL\bin\Debug\net8.0\BOL.dll
+E:\DOTNET\Harsh .Net\Enterprise Solution\BLL\bin\Debug\net8.0\DAL.dll
+E:\DOTNET\Harsh .Net\Enterprise Solution\BLL\bin\Debug\net8.0\BOL.pdb
+E:\DOTNET\Harsh .Net\Enterprise Solution\BLL\bin\Debug\net8.0\DAL.pdb
+E:\DOTNET\Harsh .Net\Enterprise Solution\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+E:\DOTNET\Harsh .Net\Enterprise Solution\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNET\Harsh .Net\Enterprise Solution\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+E:\DOTNET\Harsh .Net\Enterprise Solution\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+E:\DOTNET\Harsh .Net\Enterprise Solution\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+E:\DOTNET\Harsh .Net\Enterprise Solution\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+E:\DOTNET\Harsh .Net\Enterprise Solution\BLL\obj\Debug\net8.0\BLL.dll
+E:\DOTNET\Harsh .Net\Enterprise Solution\BLL\obj\Debug\net8.0\refint\BLL.dll
+E:\DOTNET\Harsh .Net\Enterprise Solution\BLL\obj\Debug\net8.0\BLL.pdb
+E:\DOTNET\Harsh .Net\Enterprise Solution\BLL\obj\Debug\net8.0\ref\BLL.dll
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BLL\bin\Debug\net8.0\BLL.dll
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BLL\bin\Debug\net8.0\BLL.pdb
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BLL\bin\Debug\net8.0\BOL.dll
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BLL\bin\Debug\net8.0\DAL.dll
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BLL\bin\Debug\net8.0\BOL.pdb
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BLL\bin\Debug\net8.0\DAL.pdb
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BLL\obj\Debug\net8.0\BLL.dll
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BLL\obj\Debug\net8.0\BLL.pdb
+D:\C-DAC\IACSD\.NET\Enterprise Solution\BLL\obj\Debug\net8.0\ref\BLL.dll

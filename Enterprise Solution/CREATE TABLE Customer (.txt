@@ -1,0 +1,48 @@
+CREATE TABLE Customer (
+    Id INT PRIMARY KEY AUTO_INCREMENT,
+    Username VARCHAR(255) NOT NULL,
+    Password VARCHAR(255) NOT NULL,
+    Address VARCHAR(255),
+    Email VARCHAR(255) NOT NULL,
+    Phone VARCHAR(20)
+);
+
+INSERT INTO Customer (Username, Password, Address, Email, Phone)
+VALUES
+    ('john_doe', 'john123', '123 Main St, Cityville', 'john_doe@example.com', '1234567890'),
+    ('alice_smith', 'alice123', '456 Oak St, Townsville', 'alice_smith@example.com', '2345678901'),
+    ('bob_jones', 'bob123', '789 Maple St, Villagetown', 'bob_jones@example.com', '3456789012'),
+    ('emily_davis', 'emily123', '321 Pine St, Hamletville', 'emily_davis@example.com', '4567890123'),
+    ('michael_clark', 'michael123', '567 Birch St, Countryside', 'michael_clark@example.com', '5678901234'),
+    ('susan_miller', 'susan123', '876 Elm St, Suburbia', 'susan_miller@example.com', '6789012345'),
+    ('david_wilson', 'david123', '654 Cedar St, Riverside', 'david_wilson@example.com', '7890123456'),
+    ('olivia_taylor', 'olivia123', '987 Spruce St, Lakeside', 'olivia_taylor@example.com', '8901234567'),
+    ('william_moore', 'william123', '432 Redwood St, Mountainview', 'william_moore@example.com', '9012345678'),
+    ('emma_white', 'emma123', '789 Pine St, Seaside', 'emma_white@example.com', '0123456789');
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+-- Create Product table
+CREATE TABLE Product (
+    PId INT PRIMARY KEY,
+    Name VARCHAR(255),
+    Type VARCHAR(255),
+    Price DECIMAL(10, 2),
+    Brand VARCHAR(255),
+    IsAcoustic BOOLEAN
+);
+
+-- Insert 10 rows
+INSERT INTO Product (PId, Name, Type, Price, Brand, IsAcoustic)
+VALUES
+(1, 'Guitar1', 'String', 4999.99, 'Fender', TRUE),
+(2, 'Piano1', 'Keyboard', 9999.99, 'Yamaha', FALSE),
+(3, 'Drums1', 'Percussion', 2999.99, 'Pearl', FALSE),
+(4, 'Flute1', 'Wind', 1499.99, 'Buffet Crampon', TRUE),
+(5, 'Violin1', 'String', 1999.99, 'Stradivarius', TRUE),
+(6, 'Saxophone1', 'Wind', 5999.99, 'Selmer', TRUE),
+(7, 'Trumpet1', 'Brass', 3999.99, 'Bach', FALSE),
+(8, 'Bassoon1', 'Woodwind', 7999.99, 'Fox', TRUE),
+(9, 'Clarinet1', 'Woodwind', 3499.99, 'Buffet', TRUE),
+(10, 'Cello1', 'String', 4499.99, 'D\'Addario', FALSE);

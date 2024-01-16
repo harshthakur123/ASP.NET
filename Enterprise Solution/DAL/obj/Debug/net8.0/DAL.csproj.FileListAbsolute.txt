@@ -1,0 +1,30 @@
+E:\DOTNET\Harsh .Net\Enterprise Solution\DAL\bin\Debug\net8.0\DAL.deps.json
+E:\DOTNET\Harsh .Net\Enterprise Solution\DAL\bin\Debug\net8.0\DAL.dll
+E:\DOTNET\Harsh .Net\Enterprise Solution\DAL\bin\Debug\net8.0\DAL.pdb
+E:\DOTNET\Harsh .Net\Enterprise Solution\DAL\bin\Debug\net8.0\BOL.dll
+E:\DOTNET\Harsh .Net\Enterprise Solution\DAL\bin\Debug\net8.0\BOL.pdb
+E:\DOTNET\Harsh .Net\Enterprise Solution\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+E:\DOTNET\Harsh .Net\Enterprise Solution\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNET\Harsh .Net\Enterprise Solution\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+E:\DOTNET\Harsh .Net\Enterprise Solution\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+E:\DOTNET\Harsh .Net\Enterprise Solution\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+E:\DOTNET\Harsh .Net\Enterprise Solution\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+E:\DOTNET\Harsh .Net\Enterprise Solution\DAL\obj\Debug\net8.0\DAL.dll
+E:\DOTNET\Harsh .Net\Enterprise Solution\DAL\obj\Debug\net8.0\refint\DAL.dll
+E:\DOTNET\Harsh .Net\Enterprise Solution\DAL\obj\Debug\net8.0\DAL.pdb
+E:\DOTNET\Harsh .Net\Enterprise Solution\DAL\obj\Debug\net8.0\ref\DAL.dll
+D:\C-DAC\IACSD\.NET\Enterprise Solution\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\C-DAC\IACSD\.NET\Enterprise Solution\DAL\bin\Debug\net8.0\DAL.dll
+D:\C-DAC\IACSD\.NET\Enterprise Solution\DAL\bin\Debug\net8.0\DAL.pdb
+D:\C-DAC\IACSD\.NET\Enterprise Solution\DAL\bin\Debug\net8.0\BOL.dll
+D:\C-DAC\IACSD\.NET\Enterprise Solution\DAL\bin\Debug\net8.0\BOL.pdb
+D:\C-DAC\IACSD\.NET\Enterprise Solution\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\C-DAC\IACSD\.NET\Enterprise Solution\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-DAC\IACSD\.NET\Enterprise Solution\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\C-DAC\IACSD\.NET\Enterprise Solution\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\C-DAC\IACSD\.NET\Enterprise Solution\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\C-DAC\IACSD\.NET\Enterprise Solution\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+D:\C-DAC\IACSD\.NET\Enterprise Solution\DAL\obj\Debug\net8.0\DAL.dll
+D:\C-DAC\IACSD\.NET\Enterprise Solution\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\C-DAC\IACSD\.NET\Enterprise Solution\DAL\obj\Debug\net8.0\DAL.pdb
+D:\C-DAC\IACSD\.NET\Enterprise Solution\DAL\obj\Debug\net8.0\ref\DAL.dll
