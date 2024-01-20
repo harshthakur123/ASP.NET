@@ -1,0 +1,103 @@
+@using Employee.Entity;
+
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background-image: url('/image/1.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        font-family: 'Arial', sans-serif;
+    }
+
+    table {
+        align-items: center;
+        margin: auto;
+        border-collapse: collapse;
+        font-size: large;
+        width: 60%;
+         color: white;
+         border: 1px solid wheat;
+    }
+
+    td, th,tr {
+        border: 1px solid wheat; 
+        padding: 12px;
+        transition: background-color 0.3s ease;
+    }
+    
+   tr:hover {
+        background-color: #D2B48C; /* Light brown color on hover */
+    }
+
+
+    h1 {
+        color: white;
+        text-align: center;
+        margin: auto;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    hr {
+        color: white;
+       
+        border-width: 50px; /* Adjust the border width as needed */
+    }
+
+    #sub {
+        margin-top: 30px;
+        margin-left: 260px;
+        width: 60%;
+        padding: 10px;
+        background-color: #3498db;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+    }
+
+    #sub:hover {
+        background-color: #2980b9;
+        transform: scale(1.05);
+    }
+
+ 
+</style>
+
+<table>
+    <h1>Employee List</h1>
+    <hr>
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Update</th>
+        <th>Delete</th>
+    </tr>
+
+    @{
+        foreach (Employees e in Model)
+        {
+            <tr>
+                <td>@e.Id</td>
+                <td>@e.Name</td>
+                <td>
+                    <form action="/employee/editform" method="get">
+                        <input type="hidden" name="Id" value="@e.Id">
+                        <button type="submit" class="btn btn-primary">Details</button>
+                    </form>
+                </td>
+                 <td>
+                    <form action="/employee/delete" method="get">
+                        <input type="hidden" name="Id" value="@e.Id">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    }
+</table>
+
+<form action="/employee/addform" method="get">
+    <button type="submit" class="btn btn-success" id="sub">Add Employee</button>
+</form>

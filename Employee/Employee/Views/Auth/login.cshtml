@@ -1,0 +1,110 @@
+@using Employee.Entity;
+
+<style>
+    body {
+        background-color: #2c3e50;
+        color: #ecf0f1;
+        font-family: 'Arial', sans-serif;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+    }
+
+   .container {
+    width: 70%; /* Set a fixed width */
+    margin: auto; /* Center the container horizontally */
+    margin-top: 15px;
+    background-color: #34495e;
+    padding: 15px;
+    border-radius: 8px;
+    
+    text-align: center;
+}
+
+
+    h1 {
+        font-family: 'Times New Roman', Times, serif;
+        color: #ffffff;
+    }
+
+    table {
+        width: 70%; /* Reduced table width */
+        margin-left: 130px;
+        margin-top: 15px;
+        border-collapse: collapse;
+        background-color: #2c3e50;
+    }
+
+    table, th, td {
+        border: 1px solid #34495e;
+    }
+
+    th, td {
+        padding: 8px;
+        text-align: left;
+    }
+
+    input {
+        width: calc(100% - 16px);
+        padding: 8px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        border: 1px solid #7f8c8d;
+        border-radius: 4px;
+    }
+
+    button {
+        width: 70%;
+        background-color: #3498db;
+        color: #ecf0f1;
+        padding: 10px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+</style>
+
+<form action="/auth/update" method="post">
+    <div class="container">
+        <h1>Edit Employee</h1>
+
+        <hr>
+        <table>
+            <tr>
+                <td>Id</td>
+                <td><input type="text" name="Id" id="Id" required value="@Model.Id" readonly></td>
+            </tr>
+            <tr>
+                <td>Name</td>
+                <td><input type="text" name="name" id="name" value="@Model.Name"></td>
+            </tr>
+            <tr>
+                <td>Email</td>
+                <td><input type="text" name="email" id="email" value="@Model.Email"></td>
+            </tr>
+            <tr>
+                <td>Mobile_No</td>
+                <td><input type="text" name="Mobile_No" id="Mobile_No" value="@Model.Mobile_No"></td>
+            </tr>
+            <tr>
+                <td>Address</td>
+                <td><input type="text" name="Address" id="Address" value="@Model.Address"></td>
+            </tr>
+            <tr>
+                <td>Salary</td>
+                <td><input type="text" name="salary" id="salary" value="@Model.Salary" readonly></td>
+            </tr>
+            <tr>
+                <td>Department</td>
+                <td><input type="text" name="department" id="department" value="@Model.Department" readonly></td>
+            </tr>
+            <tr>
+                <td>Commission</td>
+                <td><input type="text" name="commission" id="commission" value="@Model.Commission" readonly></td>
+            </tr>
+        </table>
+        <button type="submit">Submit</button>
+    </div>
+</form>

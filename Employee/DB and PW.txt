@@ -1,0 +1,22 @@
+CREATE TABLE Employee (
+    Id INT PRIMARY KEY,
+    Name VARCHAR(255) NOT NULL,
+    Email VARCHAR(255) NOT NULL,
+    Mobile_No VARCHAR(25),
+    Address VARCHAR(255),
+    Salary double,
+    Department VARCHAR(50),
+    Commission double
+);
+
+
+INSERT INTO Employee (Id, Name, Email, Mobile_No, Address, Salary, Department, Commission)
+VALUES
+    (1, 'Ravi Kumar', 'ravi@example.com', '9876543210', 'Bangalore', 55000.00, 'IT', 2000.00),
+    (2, 'Priya Sharma', 'priya@example.com', '8765432109', 'Mumbai', 60000.00, 'HR', 2500.50),
+    (3, 'Amit Patel', 'amit@example.com', '7654321098', 'Delhi', 50000.00, 'Finance', 1800.75),
+    (4, 'Ananya Singh', 'ananya@example.com', '6543210987', 'Kolkata', 52000.00, 'Sales', 1900.25),
+    (5, 'Vikram Verma', 'vikram@example.com', '5432109876', 'Chennai', 58000.00, 'Marketing', 2100.00),
+    (6, 'Shreya Gupta', 'shreya@example.com', '4321098765', 'Hyderabad', 53000.00, 'IT', 1700.50),
+    (7, 'Rajesh Yadav', 'rajesh@example.com', '3210987654', 'Pune', 56000.00, 'HR', 2200.75),
+    (8, 'Kavita Reddy', 'kavita@example.com', '2109876543', 'Ahmedabad', 59000.00, 'Finance', 2400.00);
