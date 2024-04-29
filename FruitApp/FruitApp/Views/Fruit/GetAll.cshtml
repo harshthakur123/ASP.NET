@@ -1,0 +1,52 @@
+@using FruitApp.Entities;
+
+<table>
+
+    <tr>
+        <th>Name</th>
+        <th>Details</th>
+        <th>Update</th>
+        <th>Delete</th>
+
+    </tr>
+
+    @{
+        foreach (Fruit f in Model)
+        {
+            <tr>
+                <td>@f.Name</td>
+
+                <td>
+                    <form action="/fruit/Details" method="get">
+            <input type="hidden" name="name" value="@f.Name" />
+            <button class="btn btn-info" type="submit">Details</button>
+            </form>
+               
+
+                </td>
+                <td>
+                    <form action="/fruit/UpdateForm/@f.Name" method="get">
+                        <input type="hidden" name="name" value="@f.Name" />
+                        <button class="btn btn-primary" type="submit">Update</button>
+                    </form>
+                </td>
+                <td>
+                    <form action="/fruit/Delete/@f.Name" method="get">
+                        <input type="hidden" name="name" value="@f.Name" />
+                        <button class="btn btn-danger" type="submit">Delete</button>
+                    </form>
+                </td>
+
+
+
+            </tr>
+
+        }
+
+    }
+    <form action="/fruit/Addform">
+        <button class="btn btn-success" type="submit">Add Fruit</button>
+    </form>
+
+
+</table>

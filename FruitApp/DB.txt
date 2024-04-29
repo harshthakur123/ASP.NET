@@ -1,0 +1,13 @@
+create table fruit(
+Name varchar(200) primary key,
+Price double,
+Taste varchar(200),
+Colour varchar(200),
+Quantity int
+);
+
+insert into fruit values("Mango",100,"Sweet & Sour","Yellow",50);
+insert into fruit values("Apple",200,"Sweet","Red",40);
+insert into fruit values("Tanagrine",120,"Sweet & Sour","Orange",70);
+insert into fruit values("Grapes",140,"Sweet & Sour","Green",80);
+insert into fruit values("Watermelon",110,"Sweet","Green",90);
